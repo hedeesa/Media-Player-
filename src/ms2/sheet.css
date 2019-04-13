@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 26, 2015, 4:50:54 PM
+    Author     : Farhad
+*/
+
+
+.tableList{
+   
+    -fx-font-family:"Arial Narrow";
+    -fx-font-size:16px;
+    
+}
+.list{
+    -fx-font-family:"Agency FB";
+    -fx-font-size:15px;
+    -fx-font-weight: bold;
+}
+.label{
+    -fx-font-weight: bold;
+    
+}
+
+.pane{
+    -fx-background-radius: 50px;
+}
